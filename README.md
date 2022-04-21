@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -579,7 +579,7 @@ Built core features for a social media application with 1m+ downloads | Supporte
   <script src="assets/js/site-btn.js"></script>
   <script src="assets/js/style-switcher.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139591409-1"></script>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139591409-1"></script> -->
 <script>
     window.dataLayer = window.dataLayer || [];
 
