@@ -118,10 +118,8 @@
       <div class="col-md-10">
         <h2 id="resume_header" class="section__title">Resume</h2>
         <p class="section__description">
-          3 years & 8 months of experience designing, developing, testing, and maintaining android applications.
-Built core features for a social media application with 1m+ downloads | Supported a cryptocurrency application
-
-        </p>
+          4 years of experience designing, developing, testing, and maintaining android applications.
+Built core features for a social media application with 1m+ downloads | Supported a cryptocurrency application</p>
       </div>
     </div>
     <div class="row">
@@ -134,7 +132,7 @@ Built core features for a social media application with 1m+ downloads | Supporte
             Bachelor of Science in Information Technology
           </p>
           
-        </div>
+</div>
   
       </div>
     </div>
@@ -143,7 +141,7 @@ Built core features for a social media application with 1m+ downloads | Supporte
         <h3 class="resume-list_title">Professional Experience</h3>
         <div class="resume-list__block">
           <p class="resume-list__block-title">PCCW Solutions Inc</p>
-          <p class="resume-list__block-date">April 2021 - Present</p>
+          <p class="resume-list__block-date">April 2021 - June 2022</p>
           <p><b>
             Solutions Developer
           </p></b>
@@ -439,12 +437,51 @@ Built core features for a social media application with 1m+ downloads | Supporte
         <p class="project-card__stack">Used stack:</p>
         <ul class="tags">
           <li>Android Studio</li>
-          <li>Kotlin</li>
+          <li>Java</li>
           <li>Retrofit</li>
           <li>Firebase</li>
-          <li>OkHTTP</li>
         </ul>
         <a href="https://play.google.com/store/apps/details?id=com.icon.movon.passenger" class="project-card__link">https://play.google.com/store/apps/details?id=com.icon.movon.passenger</a>
+      </div>
+      </div>
+
+      <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="landing-pages">
+        <div class="col-md-6 col-lg-5 project-card__img">
+        <img class="" src="assets/img/movon.png" alt="null">
+      </div>
+        <div class="col-md-6 col-lg-7 project-card__info">
+        <h3 class="project-card__title">MovOn Cargo</h3>
+        <p class="project-card__description">
+          MovOn Delivery App is designed for Bus Operators with Cargo Services powered by MovOn Cargo System for a systematic receiving and releasing of cargo deliveries, to and from different destinations.
+        </p>
+        <p class="project-card__stack">Used stack:</p>
+        <ul class="tags">
+          <li>Android Studio</li>
+          <li>Java</li>
+          <li>Retrofit</li>
+          <li>Firebase</li>
+        </ul>
+        <a href="https://play.google.com/store/apps/details?id=com.icon.movon.delivery" class="project-card__link">https://play.google.com/store/apps/details?id=com.icon.movon.delivery</a>
+      </div>
+      </div>
+
+      <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="landing-pages">
+        <div class="col-md-6 col-lg-5 project-card__img">
+        <img class="" src="assets/img/movon.png" alt="null">
+      </div>
+        <div class="col-md-6 col-lg-7 project-card__info">
+        <h3 class="project-card__title">MovOn Conductor</h3>
+        <p class="project-card__description">
+          MovOn Conductor is designed for Bus Operators to empower their conductors to manage.
+        </p>
+        <p class="project-card__stack">Used stack:</p>
+        <ul class="tags">
+          <li>Android Studio</li>
+          <li>Java</li>
+          <li>Retrofit</li>
+          <li>Firebase</li>
+        </ul>
+        <a href="https://play.google.com/store/apps/details?id=com.icon.movon.staff" class="project-card__link">https://play.google.com/store/apps/details?id=com.icon.movon.staff</a>
       </div>
       </div>
 
@@ -461,7 +498,7 @@ Built core features for a social media application with 1m+ downloads | Supporte
         <p class="project-card__stack">Used stack:</p>
         <ul class="tags">
           <li>Android Studio</li>
-          <li>Kotlin</li>
+          <li>Java</li>
           <li>Retrofit</li>
           <li>Firebase</li>
           <li>OkHTTP</li>
@@ -483,7 +520,7 @@ Built core features for a social media application with 1m+ downloads | Supporte
         <p class="project-card__stack">Used stack:</p>
         <ul class="tags">
           <li>Android Studio</li>
-          <li>Kotlin</li>
+          <li>Java</li>
           <li>Retrofit</li>
           <li>Firebase</li>
           <li>OkHTTP</li>
@@ -505,7 +542,7 @@ Built core features for a social media application with 1m+ downloads | Supporte
         <p class="project-card__stack">Used stack:</p>
         <ul class="tags">
           <li>Android Studio</li>
-          <li>Kotlin</li>
+          <li>Java</li>
           <li>Retrofit</li>
           <li>Firebase</li>
           <li>OkHTTP</li>
@@ -529,7 +566,7 @@ Built core features for a social media application with 1m+ downloads | Supporte
         <p class="project-card__stack">Used stack:</p>
         <ul class="tags">
           <li>Android Studio</li>
-          <li>Kotlin</li>
+          <li>Java</li>
           <li>Retrofit</li>
           <li>Firebase</li>
           <li>OkHTTP</li>
@@ -552,7 +589,7 @@ Built core features for a social media application with 1m+ downloads | Supporte
         <p class="project-card__stack">Used stack:</p>
         <ul class="tags">
           <li>Android Studio</li>
-          <li>Kotlin</li>
+          <li>Java</li>
           <li>Retrofit</li>
           <li>Firebase</li>
           <li>OkHTTP</li>
@@ -566,7 +603,7 @@ Built core features for a social media application with 1m+ downloads | Supporte
         <img class="" src="assets/img/gabayguro.png" alt="null">
       </div>
         <div class="col-md-6 col-lg-7 project-card__info">
-        <h3 class="project-card__title">Gabay Guro Student</h3>
+        <h3 class="project-card__title">Gabay Guro Grand Gathering</h3>
         <p class="project-card__description">
           Gabay Guro is PLDT’s flagship advocacy program for teachers spearheaded by PLDT-Smart Foundation and the PLDT Managers Club, Inc. 
           Initially a response to the call of the Philippines’ Department of Education (DepEd) for the private sector to help improve the quality of education in the Philippines, 
@@ -575,10 +612,32 @@ Built core features for a social media application with 1m+ downloads | Supporte
         <p class="project-card__stack">Used stack:</p>
         <ul class="tags">
           <li>Android Studio</li>
-          <li>Kotlin</li>
+          <li>Java</li>
           <li>Retrofit</li>
           <li>Firebase</li>
           <li>OkHTTP</li>
+        </ul>
+        <a href="https://play.google.com/store/apps/details?id=com.gabayguro.scanner" class="project-card__link">https://play.google.com/store/apps/details?id=com.gabayguro.scanner</a>
+      </div>
+      </div>
+
+
+      <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="landing-pages">
+        <div class="col-md-6 col-lg-5 project-card__img">
+        <img class="" src="assets/img/gallery.jpeg" alt="null">
+      </div>
+        <div class="col-md-6 col-lg-7 project-card__info">
+        <h3 class="project-card__title">MyHKT</h3>
+        <p class="project-card__description">
+          With your My HKT account, you may manage your PCCW/HKT service accounts anytime anywhere and enjoy our unique customer services including checking your bills, 
+          testing your line status and rebooting your broadband modem/Now TV set-top box. You may also get instant support via “Live Chat” if needed.
+
+        </p>
+        <p class="project-card__stack">Used stack:</p>
+        <ul class="tags">
+          <li>Android Studio</li>
+          <li>Java</li>
+          <li>Firebase</li>
         </ul>
         <a href="https://play.google.com/store/apps/details?id=com.gabayguro.scanner" class="project-card__link">https://play.google.com/store/apps/details?id=com.gabayguro.scanner</a>
       </div>
@@ -648,7 +707,6 @@ Built core features for a social media application with 1m+ downloads | Supporte
     </div>
   </div>
 <!--Contact-->
-
 
 
   <script src="assets/js/jquery-2.2.4.min.js"></script>
